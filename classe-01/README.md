@@ -1,5 +1,3 @@
-# 23back-integral-integracao-api-terceiros-main
-23back-integral-integracao-api-terceiros-main
 ![](https://i.imgur.com/xG74tOh.png)
 
 # Exercício de classe 🏫
